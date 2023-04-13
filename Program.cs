@@ -10,14 +10,15 @@ namespace Polyclinic
     {
         static void Main(string[] args)
         {
-            int hour = 60;
+            int minutesInHour = 60;
             int minutesInCabinet = 10;
 
             Console.Write("Сочувствую! Вы оказались в поликлинике! Введите количество бабулек, что перед вами: ");
             int grannysCount = Convert.ToInt32(Console.ReadLine());
 
-            int waitingHours = (grannysCount * minutesInCabinet) / hour;
-            int waitingMinutes = (grannysCount * minutesInCabinet) % hour;
+            int timeInLineCalculation = grannysCount * minutesInCabinet;
+            int waitingHours = timeInLineCalculation / minutesInHour;
+            int waitingMinutes = timeInLineCalculation % minutesInHour;
 
             Console.WriteLine($"Ваше время ожидания в очереди: {waitingHours} ч {waitingMinutes} мин");
             Console.ReadKey();
