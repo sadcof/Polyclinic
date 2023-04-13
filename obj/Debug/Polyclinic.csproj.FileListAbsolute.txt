@@ -1,0 +1,8 @@
+D:\C#\Junior\Polyclinic\Polyclinic\bin\Debug\Polyclinic.exe.config
+D:\C#\Junior\Polyclinic\Polyclinic\bin\Debug\Polyclinic.exe
+D:\C#\Junior\Polyclinic\Polyclinic\bin\Debug\Polyclinic.pdb
+D:\C#\Junior\Polyclinic\Polyclinic\obj\Debug\Polyclinic.csproj.AssemblyReference.cache
+D:\C#\Junior\Polyclinic\Polyclinic\obj\Debug\Polyclinic.csproj.SuggestedBindingRedirects.cache
+D:\C#\Junior\Polyclinic\Polyclinic\obj\Debug\Polyclinic.csproj.CoreCompileInputs.cache
+D:\C#\Junior\Polyclinic\Polyclinic\obj\Debug\Polyclinic.exe
+D:\C#\Junior\Polyclinic\Polyclinic\obj\Debug\Polyclinic.pdb
